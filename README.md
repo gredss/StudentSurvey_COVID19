@@ -6,6 +6,6 @@ By employing R programming, we will delve into various aspects of student experi
 Our goal is to uncover valuable insights that can inform educational policies and support strategies for future crises.
 
 Author(s):
-Gabriella Clairine
-Grace Esther
-Zaneta Fransiske
+Gabriella Clairine,
+Grace Esther,
+Zaneta Fransiske.
